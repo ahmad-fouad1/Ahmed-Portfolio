@@ -15,7 +15,7 @@ export const profile = {
   linkedin: "https://www.linkedin.com/", // TODO: replace with your LinkedIn profile URL
   resumeUrl: "https://drive.google.com/uc?export=download&id=1r6EyyXm59vBKJr_UynirycJU5mXpLHHX", // TODO: drop your PDF at public/resume.pdf
   // Set this to "/images/profile.jpg" once you add your photo (see README).
-  photo: "/images/profile.jpg",
+  photo: null,
 }
 
 export const navLinks = [

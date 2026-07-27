@@ -321,10 +321,10 @@ GitHub:
 https://github.com/ahmad-fouad1
 
 LinkedIn:
-(Add your LinkedIn URL)
+(https://www.linkedin.com/in/ahmed-fouad-9490a6291/)
 
 Email:
-(Add your email)
+(ahmedmohamedfouad101@gmail.com)
 
 
 ---
