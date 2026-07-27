@@ -24,8 +24,9 @@ const directLinks = [
   {
     label: "Phone",
     value: profile.phone,
-    href: `tel:${profile.phone.replace(/\s/g, "")}`,
+    href: `tel:${profile.phone}`,
     Icon: Phone,
+    copy: true,
   },
   {
     label: "WhatsApp",

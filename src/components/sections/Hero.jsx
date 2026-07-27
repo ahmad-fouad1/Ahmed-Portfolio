@@ -50,12 +50,12 @@ export default function Hero() {
             View projects
             <ArrowDown className="h-4 w-4" />
           </Button>
-          <Button as="a" variant="outline" href={`mailto:${profile.email}`}>
+          <Button as="a" variant="outline" href="#contact" onClick={(event) => scrollTo(event, "contact")}>
             <Mail className="h-4 w-4" />
             Get in touch
           </Button>
           <Button as="a" variant="ghost" href={profile.resumeUrl} target="_blank" rel="noreferrer">
-            Résumé (PDF)
+            Résumé-download
           </Button>
         </div>
       </div>
